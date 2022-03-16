@@ -20,6 +20,8 @@
 
 Projeto realizado para estudo de animação em CSS e manipulação de DOM com JS.
 
+Você consegue ver o projeto rodando acessando [aqui][projeto].
+
 ## 😯 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -37,4 +39,5 @@ Feito por Tiago Almeida 👋🏽 [Entre em contato!](linkedin.com/in/tiago-macha
 
 [vscode]: https://code.visualstudio.com/
 [license]: https://opensource.org/licenses/MIT
-[portfolio]: https://tiagoalmeida13.github.io/portfolio/
+[projeto]: https://tiagoalmeida13.github.io/Animated-show-hidden-input-password/
+
