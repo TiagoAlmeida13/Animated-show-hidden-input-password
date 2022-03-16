@@ -1,17 +1,17 @@
 ![example](https://media.giphy.com/media/LK5oJCwY8aDFZ8YvmU/giphy.gif) 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TiagoAlmeida13/portfolio?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TiagoAlmeida13/Animated-show-hidden-input-password?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoAlmeida13/portfolio">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoAlmeida13/Animated-show-hidden-input-password">
   
   <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/portfolio">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/Animated-show-hidden-input-password">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/TiagoAlmeida13/portfolio/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/portfolio?style=social">
+   <a href="https://github.com/TiagoAlmeida13/Animated-show-hidden-input-password/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/Animated-show-hidden-input-password?style=social">
   </a>
 </p>
 
